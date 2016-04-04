@@ -1,0 +1,1 @@
+for %%a in ("./*.tiff") do tesseract %%a  %%~na
